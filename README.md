@@ -32,7 +32,7 @@ TableDetectionProject/
 ## ⚙️ Installation
 ## 1. Clone the repository:
 ```bash
-git clone git@github.com:IlyesGhorbel/DataleonTableDetection.git
+git clone https://github.com/IlyesGhorbel/DataleonTableDetection.git
 cd TableDetectionProject
 ```
 ## 2 .Create and activate a virtual environment:
@@ -41,7 +41,7 @@ Linux / macOS
 python3 -m venv venv
 source venv/bin/activate
 ```
-Windows (PowerShell)
+Windows (cmd)
 ```bash
 python -m venv venv
 venv\Scripts\activate.bat
