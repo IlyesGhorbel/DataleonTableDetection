@@ -1,0 +1,15 @@
+# Ignorer l'environnement virtuel
+Dataleon/
+# PyCharm
+.idea/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers système
+.DS_Store
+
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
